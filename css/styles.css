@@ -215,7 +215,7 @@ img {
   flex-basis: calc((100% - 72px) / 4);
 }
 
-.feature-list-item-icon {
+.features-list-item-icon {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -226,7 +226,7 @@ img {
   margin-bottom: 8px;
 }
 
-.feature-icon {
+.features-icon {
   fill: #2e2f42;
 }
 
